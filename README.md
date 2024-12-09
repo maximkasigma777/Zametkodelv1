@@ -1,2 +1,5 @@
-пояснительная записка для Zametkodel:
-кнопкой 
+![image](https://github.com/user-attachments/assets/c1779d0d-81c6-4612-9750-51da15e4ef2d)пояснительная записка для Zametkodel:
+кнопкой ![image](https://github.com/user-attachments/assets/026ef2c6-0887-4cef-9a2d-0069e530fd7a) можно открыть заметки, которые нужно ОБЯЗАТЕЛЬНО сохранять одноимённой кнопкой
+кнопкой ![image](https://github.com/user-attachments/assets/1a60d928-9778-4157-a096-f1e9fb9df421) можно добавить события, которые будут отображаться в основном окне пока их конечная дата не закончится 
+кнопкой ![image](https://github.com/user-attachments/assets/1cb1a3a6-eb56-46c0-becf-d21a7b6c533d) добавляем друзей, нажав на любое поле кнопки ![image](https://github.com/user-attachments/assets/367a74f8-e68c-401a-a982-9ef25a4a1dbc) станут активными и кнопкой подарки открываем список подарков для человека
+ ![image](https://github.com/user-attachments/assets/022cd179-8627-4143-8621-5bf283ff7129) редактирование праздников, к сожалению пока что нет функции удаления добавленных праздников, но это будет добавлено при продолжении проекта. кнопкой загрузить добавляем excel файл с праздниками.
